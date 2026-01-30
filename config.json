@@ -1,18 +1,20 @@
-	  "api": "https://ckzy.me/api.php/provide/vod",
-	  "name": "CK资源",
-	  "detail": "https://ckzy.me"
-	},
-	"wujinzy": {
-	  "api": "https://api.wujinapi.com/api.php/provide/vod",
-	  "name": "无尽资源2",
-	  "detail": "https://api.wujinapi.com"
-	},
-	"hongniuzy": {
-	  "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-	  "name": "红牛资源",
-	  "detail": "https://www.hongniuzy2.com"
-	} ,
-        "ffzy": {
+{
+  "ckzy": {
+    "api": "https://ckzy.me/api.php/provide/vod",
+    "name": "CK资源",
+    "detail": "https://ckzy.me"
+  },
+  "wujinzy": {
+    "api": "https://api.wujinapi.com/api.php/provide/vod",
+    "name": "无尽资源2",
+    "detail": "https://api.wujinapi.com"
+  },
+  "hongniuzy": {
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "name": "红牛资源",
+    "detail": "https://www.hongniuzy2.com"
+  },
+  "ffzy": {
     "api": "https://cj.ffzyapi.com/api.php/provide/vod",
     "name": "非凡资源",
     "detail": "https://cj.ffzyapi.com"
@@ -111,226 +113,196 @@
     "api": "https://open.mgtv.com",
     "name": "芒果TV开放API",
     "detail": "https://open.mgtv.com"
-},
-    "AV5": {
-      "api": "https://91md.me/api.php/provide/vod/",
-      "name": "AV-91 Mado",
-      "detail": "https://91md.me"
-    },
-    "AV6": {
-      "api": "http://lbapiby.com/api.php/provide/vod/at/json",
-      "name": "AV-AIvin",
-      "detail": "http://lbapiby.com"
-    },
-    "AV8": {
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "name": "AV Number Resources",
-      "detail": "http://fhapi9.com/"
-    },
-    "AV11": {
-      "api": "https://Naixxzy.com/api.php/provide/vod",
-      "name": "AV-Butter Scents",
-      "detail": "https://Naixxzy.com"
-    },
-    "AV12": {
-      "api": "https://slapibf.com/api.php/provide/vod",
-      "name": "AV-Forest Resources",
-      "detail": "https://slapibf.com"
-    },
-    "AV13": {
-      "api": "https://shayuapi.com/api.php/provide/vod",
-      "name": "AV-Shark Resource",
-      "detail": "https://shayuapi.com"
-    },
-    "AV17": {
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "name": "AV-Yutu Resources",
-      "detail": "https://apiyutu.com"
-    },
-    "AV19": {
-      "api": "https://www.pgxdy.com/api/json.php",
-      "name": "AV-AV Resources",
-      "detail": "https://www.pgxdy.com"
-    },
-    "AV20": {
-      "api": "https://www.gdlsp.com/api/json.php",
-      "name": "AV-Red Milk Resource",
-      "detail": "https://www.gdlsp.com"
-    },
-    "AV21": {
-      "api": "https://www.kxgav.com/api/json.php",
-      "name": "AV-White Resource Sharing",
-      "detail": "https://www.kxgav.com"
-    },
-    "AV23": {
-      "api": "https://www.xrbsp.com/api/json.php",
-      "name": "AV-淫水资源",
-      "detail": "https://www.xrbsp.com"
-    },
-    "AV24": {
-      "api": "https://www.msnii.com/api/json.php",
-      "name": "AV-Girls Resources",
-      "detail": "https://www.msnii.com"
-    },
-    "AV25": {
-      "api": "https://lbapi9.com/api.php/provide/vod/at/json",
-      "name": "AV-Play Resources",
-      "detail": "https://lbapi9.com"
-    },
-    "AV1": {
-      "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
-      "name": "AV-Grass Resource",
-      "detail": "https://www.caoliuzyw.com"
-    },
-    "AV86": {
-      "api": "https://www.msnii.com/api/xml.php",
-      "name": "AV-Girl",
-      "detail": "https://www.msnii.com"
-    },
-    "AV87": {
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "name": "AV 淫水机",
-      "detail": "https://www.xrbsp.com"
-    },
-    "AV88": {
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "name": "AV-香奶儿",
-      "detail": "https://www.gdlsp.com"
-    },
-    "AV89": {
-      "api": "https://www.kxgav.com/api/xml.php",
-      "name": "AV-Whiteboard",
-      "detail": "https://www.kxgav.com"
-    },
-    "AV90": {
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "name": "AV Number Resources",
-      "detail": "http://fhapi9.com"
-    },
-    "AV91": {
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
-      "name": "AV-Nut Resource",
-      "detail": "https://api.apilyzy.com"
-    },
-    "AV92": {
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-      "name": "AV-Play",
-      "detail": "https://lbapi9.com"
-    },
-    "AV93": {
-      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
-      "name": "AV-Color Cat Resources",
-      "detail": "https://api.maozyapi.com"
-    },
-    "AV94": {
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
-      "name": "AV-探探资源",
-      "detail": "https://apittzy.com"
-    },
-    "AV95": {
-      "api": "http://bttcj.com/inc/sapi.php",
-      "name": "AV-Popular Paradise",
-      "detail": "http://bttcj.com"
-    },
-    "AV96": {
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "name": "AV-KK Photo Resources",
-      "detail": "https://kkzy.me"
-    },
-    "AV97": {
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "name": "AV-Adult Resources",
-      "detail": "http://wmcj8.com"
-    },
-    "AV98": {
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "name": "AV-Huang Awei",
-      "detail": "https://www.pgxdy.com"
-    },
-    "AV99": {
-      "api": "https://dadiapi.com/api.php",
-      "name": "AV-Da Land Resources",
-      "detail": "https://dadiapi.com"
-    },
-    "AV100": {
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "name": "AV-JAV Premium",
-      "detail": "http://mygzycj.com"
-    },
-    "AV101": {
-      "api": "https://api.maozyapi.com/inc/api.php",
-      "name": "AV-Sm",
-      "detail": "https://api.maozyapi.com"
-    },
-    "AV102": {
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "name": "AV-pretty girl",
-      "detail": "http://cjmygzy.com"
-    },
-    "AV103": {
-      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
-      "name": "AV-SS Resources",
-      "detail": "http://secj8.com"
-    },
-    "AV104": {
-      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
-      "name": "AV Number Resource JSON",
-      "detail": "http://fhapi9.com"
-    },
-    "AV105": {
-      "api": "https://apittzy.com/api.php/provide/vod",
-      "name": "AV-Explore Resources JSON",
-      "detail": "https://apittzy.com"
-    },
-    "AV106": {
-      "api": "http://lbapiby.com/api.php/provide/vod/at/json",
-      "name": "AV-AIvin JSON",
-      "detail": "http://lbapiby.com"
-    },
-    "AV107": {
-      "api": "https://www.msnii.com/api/xml.php",
-      "name": "AV-Girl XML",
-      "detail": "https://www.msnii.com"
-    },
-    "AV108": {
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "name": "AV-Old Duck Resources",
-      "detail": "https://api.apilyzy.com"
-    },
-    "AV109": {
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "name": "AV-Adult Resources",
-      "detail": "http://www.feifei67.com"
-    },
-    "AV110": {
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "name": "AV-Color Cat JSON",
-      "detail": "https://api.maozyapi.com"
-    },
-    "AV111": {
-      "api": "http://bttcj.com/inc/sapi.php",
-      "name": "AV-Heaven Benefits",
-      "detail": "http://bttcj.com"
-    },
-    "AV112": {
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "name": "AV-KK Resources",
-      "detail": "https://kkzy.me"
-    },
-    "AV113": {
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "name": "AV-LiveBroadcastJSON",
-      "detail": "https://lbapi9.com"
-    },
-    "AV114": {
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "name": "AV-Slurry Machine XML",
-      "detail": "https://www.xrbsp.com"
-    },
-    "AV115": {
-      "api": "https://api.maozyapi.com/inc/api.php",
-      "name": "AV-S Cat Resources",
-      "detail": "https://api.maozyapi.com"
+  },
+  "AV5": {
+    "api": "https://91md.me/api.php/provide/vod/",
+    "name": "AV-91麻豆",
+    "detail": "https://91md.me"
+  },
+  "AV6": {
+    "api": "http://lbapiby.com/api.php/provide/vod/at/json",
+    "name": "AV-艾薇资源",
+    "detail": "http://lbapiby.com"
+  },
+  "AV8": {
+    "api": "http://fhapi9.com/api.php/provide/vod",
+    "name": "AV-番号资源",
+    "detail": "http://fhapi9.com/"
+  },
+  "AV11": {
+    "api": "https://Naixxzy.com/api.php/provide/vod",
+    "name": "AV-奶香资源",
+    "detail": "https://Naixxzy.com"
+  },
+  "AV12": {
+    "api": "https://slapibf.com/api.php/provide/vod",
+    "name": "AV-森林资源",
+    "detail": "https://slapibf.com"
+  },
+  "AV13": {
+    "api": "https://shayuapi.com/api.php/provide/vod",
+    "name": "AV-鲨鱼资源",
+    "detail": "https://shayuapi.com"
+  },
+  "AV17": {
+    "api": "https://apiyutu.com/api.php/provide/vod",
+    "name": "AV-玉兔资源",
+    "detail": "https://apiyutu.com"
+  },
+  "AV19": {
+    "api": "https://www.pgxdy.com/api/json.php",
+    "name": "AV-黄AV资源",
+    "detail": "https://www.pgxdy.com"
+  },
+  "AV20": {
+    "api": "https://www.gdlsp.com/api/json.php",
+    "name": "AV-香奶资源",
+    "detail": "https://www.gdlsp.com"
+  },
+  "AV21": {
+    "api": "https://www.kxgav.com/api/json.php",
+    "name": "AV-白白资源",
+    "detail": "https://www.kxgav.com"
+  },
+  "AV23": {
+    "api": "https://www.xrbsp.com/api/json.php",
+    "name": "AV-淫水资源",
+    "detail": "https://www.xrbsp.com"
+  },
+  "AV24": {
+    "api": "https://www.msnii.com/api/json.php",
+    "name": "AV-妹子资源",
+    "detail": "https://www.msnii.com"
+  },
+  "AV25": {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json",
+    "name": "AV-乐播资源",
+    "detail": "https://lbapi9.com"
+  },
+  "AV1": {
+    "api": "https://www.caoliuzyw.com/api.php/provide/vod",
+    "name": "AV-草榴资源",
+    "detail": "https://www.caoliuzyw.com"
+  },
+  "AV86": {
+    "api": "https://www.msnii.com/api/xml.php",
+    "name": "AV-妹子",
+    "detail": "https://www.msnii.com"
+  },
+  "AV87": {
+    "api": "https://www.xrbsp.com/api/xml.php",
+    "name": "AV-淫水机",
+    "detail": "https://www.xrbsp.com"
+  },
+  "AV88": {
+    "api": "https://www.gdlsp.com/api/xml.php",
+    "name": "AV-香奶儿",
+    "detail": "https://www.gdlsp.com"
+  },
+  "AV89": {
+    "api": "https://www.kxgav.com/api/xml.php",
+    "name": "AV-白白",
+    "detail": "https://www.kxgav.com"
+  },
+  "AV90": {
+    "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+    "name": "AV-番号资源",
+    "detail": "http://fhapi9.com"
+  },
+  "AV91": {
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+    "name": "AV-老鸭资源",
+    "detail": "https://api.apilyzy.com"
+  },
+  "AV92": {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "name": "AV-乐播",
+    "detail": "https://lbapi9.com"
+  },
+  "AV93": {
+    "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
+    "name": "AV-色猫资源",
+    "detail": "https://api.maozyapi.com"
+  },
+  "AV94": {
+    "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+    "name": "AV-探探资源",
+    "detail": "https://apittzy.com"
+  },
+  "AV95": {
+    "api": "http://bttcj.com/inc/sapi.php",
+    "name": "AV-福利天堂",
+    "detail": "http://bttcj.com"
+  },
+  "AV96": {
+    "api": "https://kkzy.me/api.php/provide/vod/",
+    "name": "AV-KK资源",
+    "detail": "https://kkzy.me"
+  },
+  "AV97": {
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "name": "AV-成人资源",
+    "detail": "http://wmcj8.com"
+  },
+  "AV98": {
+    "api": "https://www.pgxdy.com/api/xml.php",
+    "name": "AV-黄AV",
+    "detail": "https://www.pgxdy.com"
+  },
+  "AV99": {
+    "api": "https://dadiapi.com/api.php",
+    "name": "AV-大地资源",
+    "detail": "https://dadiapi.com"
+  },
+  "AV100": {
+    "api": "http://mygzycj.com/api.php?ac=list",
+    "name": "AV-美少女",
+    "detail": "http://mygzycj.com"
+  },
+  "AV101": {
+    "api": "https://api.maozyapi.com/inc/api.php",
+    "name": "AV-色猫资源",
+    "detail": "https://api.maozyapi.com"
+  },
+  "AV102": {
+    "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+    "name": "AV-美少女",
+    "detail": "http://cjmygzy.com"
+  },
+  "AV103": {
+    "api": "http://secj8.com/inc/sapi.php?ac=videolist",
+    "name": "AV-SS资源",
+    "detail": "http://secj8.com"
+  },
+  "AV104": {
+    "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+    "name": "AV-番号资源JSON",
+    "detail": "http://fhapi9.com"
+  },
+  "AV105": {
+    "api": "https://apittzy.com/api.php/provide/vod",
+    "name": "AV-探探资源JSON",
+    "detail": "https://apittzy.com"
+  },
+  "AV108": {
+    "api": "https://api.apilyzy.com/api.php/provide/vod/",
+    "name": "AV-老鸭资源",
+    "detail": "https://api.apilyzy.com"
+  },
+  "AV109": {
+    "api": "http://www.feifei67.com/api.php/provide/vod/",
+    "name": "AV-成人资源",
+    "detail": "http://www.feifei67.com"
+  },
+  "AV110": {
+    "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+    "name": "AV-色猫JSON",
+    "detail": "https://api.maozyapi.com"
+  },
+  "AV113": {
+    "api": "https://lbapi9.com/api.php/provide/vod/",
+    "name": "AV-乐播JSON",
+    "detail": "https://lbapi9.com"
     }
   }
 }
