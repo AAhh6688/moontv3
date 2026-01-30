@@ -1,106 +1,117 @@
-{
-  "cache_time": 7200,
-  "api_site": {
-    "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "Movie Heaven Resources",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "Black Moss",
-      "detail": "https://heimuer.tv"
-    },
-    "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "Ruyi Resources"
-    },
-    "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "BaoFeng Resources"
-    },
-    "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "Tianya Resources"
-    },
-    "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "Extraordinary Movies",
-      "detail": "http://ffzy5.tv"
-    },
-    "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360 Resources"
-    },
-    "iqiyi": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi resources"
-    },
-    "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "Wo Long Resources"
-    },
-    "jisu": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "Ultra-fast Resources",
-      "detail": "https://jszyapi.com"
-    },
-    "dbzy": {
-      "api": "https://dbzy.tv/api.php/provide/vod",
-      "name": "Douban Resources"
-    },
-    "mozhua": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "Mozhuazy Resources"
-    },
-    "mdzy": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "Majdu Resources"
-    },
-    "zuid": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "Maximum Resources"
-    },
-    "yinghua": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "Cherry Blossom Resources"
-    },
-    "wujin": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "name": "Infinite Resources"
-    },
-    "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "name": "Wangwang Short Drama"
-    },
-    "ikun": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun Resources"
-    },
-    "lzi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "Quantum Resource Station"
-    },
-    "huya": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "name": "HuYa Resources",
-      "detail": "https://www.huyaapi.com"
-    },
-    "ckzy": {
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "name": "CK Resources",
-      "detail": "https://ckzy.me"
-    },
-    "wujinzy": {
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "name": "Infinite Resources 2",
-      "detail": "https://api.wujinapi.com"
-    },
-    "hongniuzy": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "name": "Red Bull Resources",
-      "detail": "https://www.hongniuzy2.com"
-    },
+	  "api": "https://ckzy.me/api.php/provide/vod",
+	  "name": "CK资源",
+	  "detail": "https://ckzy.me"
+	},
+	"wujinzy": {
+	  "api": "https://api.wujinapi.com/api.php/provide/vod",
+	  "name": "无尽资源2",
+	  "detail": "https://api.wujinapi.com"
+	},
+	"hongniuzy": {
+	  "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+	  "name": "红牛资源",
+	  "detail": "https://www.hongniuzy2.com"
+	} ,
+        "ffzy": {
+    "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+    "name": "非凡资源",
+    "detail": "https://cj.ffzyapi.com"
+  },
+  "p2100": {
+    "api": "https://p2100.net/api.php/provide/vod",
+    "name": "飘零资源",
+    "detail": "https://p2100.net"
+  },
+  "modu": {
+    "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+    "name": "魔都资源",
+    "detail": "https://caiji.moduapi.cc"
+  },
+  "apibdzy": {
+    "api": "https://api.apibdzy.com/api.php/provide/vod",
+    "name": "百度云资源",
+    "detail": "https://api.apibdzy.com"
+  },
+  "uku": {
+    "api": "https://api.ukuapi.com/api.php/provide/vod",
+    "name": "U酷资源",
+    "detail": "https://api.ukuapi.com"
+  },
+  "qilin": {
+    "api": "https://www.qilinzyz.com/api.php/provide/vod",
+    "name": "麒麟资源",
+    "detail": "https://www.qilinzyz.com"
+  },
+  "fqzy": {
+    "api": "https://api.fqzy.cc/api.php/provide/vod",
+    "name": "番茄资源",
+    "detail": "https://api.fqzy.cc"
+  },
+  "jinge": {
+    "api": "https://api.jinge.cc/api.php/provide/vod",
+    "name": "金鹰资源",
+    "detail": "https://api.jinge.cc"
+  },
+  "maoyan": {
+    "api": "https://maoyanzy.net/api.php/provide/vod",
+    "name": "猫眼资源",
+    "detail": "https://maoyanzy.net"
+  },
+  "zy789": {
+    "api": "https://789zy.cc/api.php/provide/vod",
+    "name": "789资源",
+    "detail": "https://789zy.cc"
+  },
+  "yyzy": {
+    "api": "https://www.yyzywcj.com/api.php/provide/vod",
+    "name": "优优资源",
+    "detail": "https://www.yyzywcj.com"
+  },
+  "maotai": {
+    "api": "https://maotaiyy.com/api.php/provide/vod",
+    "name": "茅台资源",
+    "detail": "https://maotaiyy.com"
+  },
+  "gszy": {
+    "api": "https://gszyapi.com/api.php/provide/vod",
+    "name": "光速资源",
+    "detail": "https://gszyapi.com"
+  },
+  "h2api": {
+    "api": "https://api.h2api.com/vinfo/index",
+    "name": "H2聚合资源 (包含爱奇艺、优酷、腾讯视频、芒果TV)",
+    "detail": "https://api.h2api.com"
+  },
+  "ali_vod": {
+    "api": "https://vod.aliyuncs.com",
+    "name": "阿里云VOD",
+    "detail": "https://www.aliyun.com/product/vod"
+  },
+  "tencent_vod": {
+    "api": "https://vod.tencentcloudapi.com",
+    "name": "腾讯云VOD (包含腾讯视频)",
+    "detail": "https://cloud.tencent.com/product/vod"
+  },
+  "huawei_vod": {
+    "api": "https://vod.myhwclouds.com",
+    "name": "华为云VOD",
+    "detail": "https://www.huaweicloud.com/product/vod.html"
+  },
+  "iqiyi_open": {
+    "api": "https://open.iqiyi.com/api",
+    "name": "爱奇艺开放API",
+    "detail": "https://open.iqiyi.com"
+  },
+  "youku_open": {
+    "api": "https://open.youku.com/api",
+    "name": "优酷开放API",
+    "detail": "https://open.youku.com"
+  },
+  "mango_open": {
+    "api": "https://open.mgtv.com",
+    "name": "芒果TV开放API",
+    "detail": "https://open.mgtv.com"
+},
     "AV5": {
       "api": "https://91md.me/api.php/provide/vod/",
       "name": "AV-91 Mado",
