@@ -170,6 +170,156 @@
       "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
       "name": "AV-草榴资源",
       "detail": "https://www.caoliuzyw.com"
+	}, 
+		 "AV86": {
+    "api": "https://www.msnii.com/api/xml.php",
+    "name": "AV-美少女",
+    "detail": "https://www.msnii.com"
+  },
+  "AV87": {
+    "api": "https://www.xrbsp.com/api/xml.php",
+    "name": "AV-淫水机",
+    "detail": "https://www.xrbsp.com"
+  },
+  "AV88": {
+    "api": "https://www.gdlsp.com/api/xml.php",
+    "name": "AV-香奶儿",
+    "detail": "https://www.gdlsp.com"
+  },
+  "AV89": {
+    "api": "https://www.kxgav.com/api/xml.php",
+    "name": "AV-白嫖",
+    "detail": "https://www.kxgav.com"
+  },
+  "AV90": {
+    "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+    "name": "AV-番号资源",
+    "detail": "http://fhapi9.com"
+  },
+  "AV91": {
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+    "name": "AV-花椒资源",
+    "detail": "https://api.apilyzy.com"
+  },
+  "AV92": {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "name": "AV-乐播",
+    "detail": "https://lbapi9.com"
+  },
+  "AV93": {
+    "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
+    "name": "AV-色猫资源",
+    "detail": "https://api.maozyapi.com"
+  },
+  "AV94": {
+    "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+    "name": "AV-探探资源",
+    "detail": "https://apittzy.com"
+  },
+  "AV95": {
+    "api": "http://bttcj.com/inc/sapi.php",
+    "name": "AV-博天堂",
+    "detail": "http://bttcj.com"
+  },
+  "AV96": {
+    "api": "https://kkzy.me/api.php/provide/vod/",
+    "name": "AV-KK写真资源",
+    "detail": "https://kkzy.me"
+  },
+  "AV97": {
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "name": "AV-成人资源",
+    "detail": "http://wmcj8.com"
+  },
+  "AV98": {
+    "api": "https://www.pgxdy.com/api/xml.php",
+    "name": "AV-黄艾薇",
+    "detail": "https://www.pgxdy.com"
+  },
+  "AV99": {
+    "api": "https://dadiapi.com/api.php",
+    "name": "AV-大地资源",
+    "detail": "https://dadiapi.com"
+  },
+  "AV100": {
+    "api": "http://mygzycj.com/api.php?ac=list",
+    "name": "AV-JAV名优",
+    "detail": "http://mygzycj.com"
+  },
+  "AV101": {
+    "api": "https://api.maozyapi.com/inc/api.php",
+    "name": "AV-Sm",
+    "detail": "https://api.maozyapi.com"
+  },
+  "AV102": {
+    "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+    "name": "AV-小美眉",
+    "detail": "http://cjmygzy.com"
+  },
+  "AV103": {
+    "api": "http://secj8.com/inc/sapi.php?ac=videolist",
+    "name": "AV-SS资源",
+    "detail": "http://secj8.com"
+  },
+  "AV104": {
+    "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+    "name": "AV-番号资源JSON",
+    "detail": "http://fhapi9.com"
+  },
+  "AV105": {
+    "api": "https://apittzy.com/api.php/provide/vod",
+    "name": "AV-探探资源JSON",
+    "detail": "https://apittzy.com"
+  },
+  "AV106": {
+    "api": "http://lbapiby.com/api.php/provide/vod/at/json",
+    "name": "AV-AIvin JSON",
+    "detail": "http://lbapiby.com"
+  },
+  "AV107": {
+    "api": "https://www.msnii.com/api/xml.php",
+    "name": "AV-美少女XML",
+    "detail": "https://www.msnii.com"
+  },
+  "AV108": {
+    "api": "https://api.apilyzy.com/api.php/provide/vod/",
+    "name": "AV-老鸭资源",
+    "detail": "https://api.apilyzy.com"
+  },
+  "AV109": {
+    "api": "http://www.feifei67.com/api.php/provide/vod/",
+    "name": "AV-成人资源",
+    "detail": "http://www.feifei67.com"
+  },
+  "AV110": {
+    "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+    "name": "AV-色猫JSON",
+    "detail": "https://api.maozyapi.com"
+  },
+  "AV111": {
+    "api": "http://bttcj.com/inc/sapi.php",
+    "name": "AV-天堂福利",
+    "detail": "http://bttcj.com"
+  },
+  "AV112": {
+    "api": "https://kkzy.me/api.php/provide/vod/",
+    "name": "AV-KK资源",
+    "detail": "https://kkzy.me"
+  },
+  "AV113": {
+    "api": "https://lbapi9.com/api.php/provide/vod/",
+    "name": "AV-乐播JSON",
+    "detail": "https://lbapi9.com"
+  },
+  "AV114": {
+    "api": "https://www.xrbsp.com/api/xml.php",
+    "name": "AV-淫水机XML",
+    "detail": "https://www.xrbsp.com"
+  },
+  "AV115": {
+    "api": "https://api.maozyapi.com/inc/api.php",
+    "name": "AV-S猫资源",
+    "detail": "https://api.maozyapi.com"
     }
   }
 }
